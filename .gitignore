@@ -1,0 +1,11 @@
+# Firebase private key
+serviceAccountKey.json
+
+# Environment variables
+.env
+
+# Node modules
+node_modules/
+
+# Build folder
+dist/
