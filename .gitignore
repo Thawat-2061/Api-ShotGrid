@@ -1,6 +1,2 @@
 serviceAccountKey.json
-*.secret
-*.key
-*.pem
-*.p12
-*.env
+.env
